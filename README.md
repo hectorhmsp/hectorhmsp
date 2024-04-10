@@ -1,6 +1,6 @@
 <h1>Oi <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture> eu sou o Héctor!</h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
 
 <p align="left"> 
   <strong>Estudante de Análise e Desenvolvimento de Sistemas.
@@ -15,7 +15,7 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 
 
 
-## Skills:
+# Skills:
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,6 +26,8 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 # Alguns projetos que fiz:
 
@@ -49,11 +51,9 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 ## Projeto de criação de um jogo-da-velha
 ![tic-tac-toe](https://github.com/hectorhmsp/OdinProject/assets/132489902/163fdb1b-bcf3-4882-a344-a6401ea76236)
 
-## Projeto de criação de uma "biblioteca" para registrar os livros lidos 
-![lib](https://github.com/hectorhmsp/OdinProject/assets/132489902/9084d3b6-f244-4214-a6f0-2dce5b56faa0)
 
 
-## Redes sociais:
+# Redes sociais:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-peres/)](https://www.linkedin.com/in/hector-peres/)
 
