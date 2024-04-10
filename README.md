@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @hectorhmsp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá, <img src = "https://i.imgur.com/QC52zc6.gif" width = 30px>, meu nome é Héctor!
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
+<picture><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></picture>
+<p align="left"> 
+  <strong>Técnico em Informática</strong><br>
+</p>
+<br>
 
 ![image](BadgeURLAqui)
+
+Socials:
 
 [![hectorhmsp](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorhmsp&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,8 +32,7 @@ Skills:
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-
+Olá, <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture>, meu nome é Héctor!
 <!---
 hectorhmsp/hectorhmsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
