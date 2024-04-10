@@ -32,10 +32,10 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 ## Projeto de criação de um _dashboard_
 ![dashboard](https://github.com/hectorhmsp/OdinProject/assets/132489902/980590cc-43da-40ec-9107-e632e4d1f3fb)
 
-## Projeto de criação de um to-do-list (com armazenamento de dados no localStorage)
+## Projeto de criação de um to-do-list 
 ![tdl](https://github.com/hectorhmsp/OdinProject/assets/132489902/139d0bfd-0dfa-4c18-9882-edb5c6ba0b10)
 
-## Um jogo de campo minado, com 3 níveis diferentes (esse projeto não estava no curso, fiz por conta própria)
+## Um jogo de campo minado, com 3 níveis diferentes 
 ![minesweeper](https://github.com/hectorhmsp/OdinProject/assets/132489902/d15ad083-1215-4585-a816-d810f0342104)
 
 ## Projeto de criar uma página de um restaurante fictício
@@ -49,7 +49,7 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 ## Projeto de criação de um jogo-da-velha
 ![tic-tac-toe](https://github.com/hectorhmsp/OdinProject/assets/132489902/163fdb1b-bcf3-4882-a344-a6401ea76236)
 
-## Projeto de criação de uma "biblioteca" para registrar os livros lidos (e o armazenamento dos dados em JSON no localStorage do navegador)
+## Projeto de criação de uma "biblioteca" para registrar os livros lidos 
 ![lib](https://github.com/hectorhmsp/OdinProject/assets/132489902/9084d3b6-f244-4214-a6f0-2dce5b56faa0)
 
 
