@@ -13,9 +13,8 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 
 [![hectorhmsp](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorhmsp&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-\
-
-
+<br>
+<br>
 
 # 🚀 Skills:
 
@@ -29,8 +28,8 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-\
-
+<br>
+<br>
 
 # 💻 Alguns projetos que fiz:
 
