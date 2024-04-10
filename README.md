@@ -7,17 +7,9 @@
 </p>
 <br>
 
-![image](BadgeURLAqui)
-
-Socials:
-
 [![hectorhmsp](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorhmsp&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-peres/)](https://www.linkedin.com/in/hector-peres/)
 
-[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hectorhmsp0310@gmail.com)](mailto:hectorhmsp0310@gmail.com)
-
-[![WhatsApp Badge](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551984285840?text=Ol%C3%A1,%20H%C3%A9ctor!)
 
 Skills:
 
@@ -31,8 +23,14 @@ Skills:
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+Redes sociais:
 
-Olá, <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture>, meu nome é Héctor!
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-peres/)](https://www.linkedin.com/in/hector-peres/)
+
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hectorhmsp0310@gmail.com)](mailto:hectorhmsp0310@gmail.com)
+
+[![WhatsApp Badge](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551984285840?text=Ol%C3%A1,%20H%C3%A9ctor!)
+
 <!---
 hectorhmsp/hectorhmsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
