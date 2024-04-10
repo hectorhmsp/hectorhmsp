@@ -15,7 +15,7 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 
 \
 \
-\
+
 
 # 🚀 Skills:
 
@@ -29,7 +29,8 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+\
+\
 
 # 💻 Alguns projetos que fiz:
 
