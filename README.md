@@ -3,7 +3,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
 
 <p align="left"> 
-  <strong>Técnico em Informática</strong><br>
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas.
+
+Sempre buscando novos conhecimentos. Atualmente, estou dedicando meu tempo a estudar JavaScript, HTML, CSS, Python, MySQL, Java e Linux.
+
+Procuro agregar o máximo de experiências e conhecimentos em todas as atividades realizadas.</strong><br>
 </p>
 <br>
 
