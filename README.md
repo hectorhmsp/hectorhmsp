@@ -1,6 +1,6 @@
 <h1>Oi <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture> eu sou o Héctor!</h1>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
 
 <p align="left"> 
   <strong>Estudante de Análise e Desenvolvimento de Sistemas.
