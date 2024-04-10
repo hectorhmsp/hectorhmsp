@@ -27,7 +27,7 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-# **Alguns projetos que fiz:
+### Alguns projetos que fiz:
 
 ## Projeto de criação de um _dashboard_
 ![dashboard](https://github.com/hectorhmsp/OdinProject/assets/132489902/980590cc-43da-40ec-9107-e632e4d1f3fb)
