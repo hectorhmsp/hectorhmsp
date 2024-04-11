@@ -12,8 +12,11 @@ Procuro agregar o máximo de experiências e conhecimentos em todas as atividade
 <br>
 
 
-|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+|                                                                                                              |                                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | [![hectorhmsp](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorhmsp&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) | # ⭐ Redes sociais: <br> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-peres/)](https://www.linkedin.com/in/hector-peres/) <br> [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hectorhmsp0310@gmail.com)](mailto:hectorhmsp0310@gmail.com) <br> [![WhatsApp Badge](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551984285840?text=Ol%C3%A1,%20H%C3%A9ctor!)
+
+
 
 
 <br>
