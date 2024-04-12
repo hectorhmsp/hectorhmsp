@@ -1,4 +1,4 @@
-<h1><picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture>  Oi, eu sou o Héctor! / Hi, I'm Hector!</h1>
+<h1><picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture>  Oi, eu sou o Héctor! / Hi, I'm Héctor!</h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim / About Me** 
 
