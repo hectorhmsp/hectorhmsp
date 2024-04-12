@@ -4,7 +4,9 @@
 
 <p align="left"> 
   <strong>Estudante de Análise e Desenvolvimento de Sistemas.
-Sempre buscando novos conhecimentos. Atualmente, estou dedicando meu tempo a estudar JavaScript, HTML, CSS, Python, MySQL, Java e Linux.
+    
+Sempre buscando novos conhecimentos. 
+Atualmente, estou dedicando meu tempo a estudar JavaScript, HTML, CSS, Python, MySQL, Java e Linux.
 Procuro agregar o máximo de experiências e conhecimentos em todas as atividades realizadas.</strong><br>
 </p>
 
