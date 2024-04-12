@@ -44,7 +44,7 @@
 <br>
 <br>
 
-# 💻 Alguns projetos que fiz:
+# 💻 Alguns projetos que fiz / Some projects I've worked on:
 
 ## Projeto de criação de um _dashboard_
 ![dashboard](https://github.com/hectorhmsp/OdinProject/assets/132489902/980590cc-43da-40ec-9107-e632e4d1f3fb)
