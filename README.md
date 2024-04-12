@@ -5,9 +5,16 @@
 <p align="left"> 
   <strong>Estudante de Análise e Desenvolvimento de Sistemas.
 
-Sempre buscando novos conhecimentos. Atualmente, estou dedicando meu tempo a estudar JavaScript, HTML, CSS, Python, MySQL, Java e Linux. / Always seeking new knowledge. Currently, I'm dedicating my time to studying JavaScript, HTML, CSS, Python, MySQL, Java, and Linux.
+Sempre buscando novos conhecimentos. Atualmente, estou dedicando meu tempo a estudar JavaScript, HTML, CSS, Python, MySQL, Java e Linux.
 
-Procuro agregar o máximo de experiências e conhecimentos em todas as atividades realizadas. / I aim to gain as much experience and knowledge as possible in all activities I undertake</strong><br>
+Procuro agregar o máximo de experiências e conhecimentos em todas as atividades realizadas.</strong><br>
+</p>
+
+<p align="left"> 
+  <strong>Computer Science student
+
+Always seeking new knowledge. Currently, I'm dedicating my time to studying JavaScript, HTML, CSS, Python, MySQL, Java, and Linux.
+I aim to gain as much experience and knowledge as possible in all activities I undertake.</strong><br>
 </p>
 <br>
 
