@@ -1,13 +1,13 @@
-<h1>Oi <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture> eu sou o Héctor!</h1>
+<h1>Oi <picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture> eu sou o Héctor!</h1> <h1>Hi, I'm Hector!</h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **Sobre mim / About Me** 
 
 <p align="left"> 
   <strong>Estudante de Análise e Desenvolvimento de Sistemas.
 
-Sempre buscando novos conhecimentos. Atualmente, estou dedicando meu tempo a estudar JavaScript, HTML, CSS, Python, MySQL, Java e Linux.
+Sempre buscando novos conhecimentos. Atualmente, estou dedicando meu tempo a estudar JavaScript, HTML, CSS, Python, MySQL, Java e Linux. / Always seeking new knowledge. Currently, I'm dedicating my time to studying JavaScript, HTML, CSS, Python, MySQL, Java, and Linux.
 
-Procuro agregar o máximo de experiências e conhecimentos em todas as atividades realizadas.</strong><br>
+Procuro agregar o máximo de experiências e conhecimentos em todas as atividades realizadas. / I aim to gain as much experience and knowledge as possible in all activities I undertake</strong><br>
 </p>
 <br>
 
