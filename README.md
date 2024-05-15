@@ -46,7 +46,7 @@
 
 # 💻 Alguns projetos que fiz / Some projects I've worked on:
 
-## Um site de previsão do tempo, usando o WeatherAPI
+## Um site de previsão do tempo, usando o _WeatherAPI_ /  Weather website using WeatherAPI calls
 ![weather](https://github.com/hectorhmsp/hectorhmsp/assets/132489902/c4df8617-5367-4f2c-8c5b-35f15450fe46)
 
 ## Projeto de criação de um _dashboard_ / Project to create a dashboard
