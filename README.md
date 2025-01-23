@@ -1,6 +1,6 @@
 <h1><picture><img src = "https://i.imgur.com/QC52zc6.gif" width = 30px></picture>  Oi, eu sou o Héctor! / Hi, I'm Héctor!</h1>
 
-##**Sobre mim / About Me** 
+## **Sobre mim / About Me** ## 
 
 <div align="left">
   <p>
